@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "VELORA — Life Organizer",
+  "short_name": "VELORA",
+  "description": "Atur waktu, kebiasaan, belajar, dan keuangan dalam satu ruang.",
+  "lang": "id-ID",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f5fa",
+  "theme_color": "#29233b",
+  "icons": [
+    {
+      "src": "./velora-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./velora-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
